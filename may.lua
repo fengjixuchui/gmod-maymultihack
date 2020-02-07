@@ -1,6 +1,6 @@
 /*
 	May multi hack
-	Made by Madison( http://steamcommunity.com/profiles/76561197961210122/ )
+	Made by May( http://steamcommunity.com/profiles/76561197961210122/ )
 	Project started on 02/09/2018 @ 17:22 EST
 	Last update on 05/12/2018 @ 17:44 EST
 */
